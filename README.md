@@ -310,7 +310,7 @@ Configure logging in `log4net.config`
 
 ## License
 
-MIT License - Use it, abuse it, make it your own.
+[Apache License 2.0](LICENSE) - Use it, abuse it, make it your own.
 
 ## Contributing
 
